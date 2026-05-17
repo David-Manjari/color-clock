@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="container">
       <p>
-        {format(new Date(), "MMMM dd, yyyy hh:mm:ss a")}
+        {format(new Date(), "MMMM dd, yyyy hh:mm:ss ")}
         </p>
     </div>
   );
