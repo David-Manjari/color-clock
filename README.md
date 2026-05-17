@@ -2,8 +2,8 @@
 
 ## Description
 This is a project  curated to dsplay the day and time to user in the form :
- - The day in  MM-DD-YYYY format
- - The time in  Hr-Mn-Sec 
+ - The day in  **MM-DD-YYYY** format
+ - The time in  **Hr-Mn-Sec** format 
  
  ## Features
  - Display the day
@@ -13,11 +13,11 @@ This is a project  curated to dsplay the day and time to user in the form :
 1. Visit my GitHub repository through the provided link
 2. Download or clone the project
 3. Open `main.jsx` in your browser
-4. Look up the time
+4. Look up the time and reload page to check changes
 
 ## Technologies Used
--  React  to display the clock
--  CSS to style the page
+-  **React**  to display the clock
+-  **CSS** to style the page
 
 ##  Known Issues
 - Time is static
