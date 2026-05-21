@@ -1,4 +1,4 @@
-# Single Page Application - Wordly Dictionary
+# COLOR-CLOCK
 
 ## Description
 This is a project  curated to dsplay the day and time to user in the form :
